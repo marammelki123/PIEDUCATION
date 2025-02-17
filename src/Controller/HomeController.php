@@ -13,7 +13,11 @@ class HomeController extends AbstractController
         return $this->render('home/index.html.twig');
     }
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 }
+=======
+}
+>>>>>>> Stashed changes
 =======
 }
 >>>>>>> Stashed changes
